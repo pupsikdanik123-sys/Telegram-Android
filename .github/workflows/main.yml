@@ -1,5 +1,4 @@
-YAML
-name: Telegram Android Build
+name: "Telegram Android Build"
 
 'on':
   workflow_dispatch:
