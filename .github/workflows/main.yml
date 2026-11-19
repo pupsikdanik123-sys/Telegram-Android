@@ -1,7 +1,7 @@
 YAML
 name: Telegram Android Build
 
-on:
+'on':
   workflow_dispatch:
 
 jobs:
